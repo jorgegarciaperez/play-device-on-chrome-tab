@@ -1,0 +1,18 @@
+{
+  "name": "Play Sound from device",
+  "version": "1",
+  "manifest_version": 3,
+  "description": "Play sound on tab from an input audio device.",
+  "action": {
+    "default_popup": "playSound.html"
+  },
+  "permissions": ["activeTab"],
+  "content_scripts": [
+    {
+      "matches": [
+        "https://docs.google.com/*"],
+      "js": ["audio-permissions.js"],
+      "css": ["audio-permissions.css"]
+    }
+  ]
+}

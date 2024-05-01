@@ -1,0 +1,19 @@
+.ks1ke3-sound-icon {
+    height: 20px;
+    width: 20px;
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB3UlEQVR4nN3Wz4tOURzH8RcG2WoIifx4BiWbKdnYYCOkPFlY2pBfaz82iPwPomRBmZRYKUVDTc1qVnYy+bUxFiRkITr63jrd7vPTnafGp073Od97n/Pufr/f+zmHOaYhjMR1YNqIl/iNccwfFPRdQIvRmG1oA+9L0DRGWzx/FE+wbTag7cDDuIWfONMPdKQNtB240AF8xrVeoR/aQKvAJ3Aei7LYdnyJe7VAq8B7MIOJSHehJn5gSxFYgiM4FiM1w6ouoa1Snf4/GWNxFr+Hh8XkcWmh/bjaJbRdjVdEb+S13YRfkc2/P8oLXe8RvBrTuIyFGegQvmNZFhuP5yoX6hU8L2r4GvczyIKIncxiqfGe1QUutAbfsDuL3cDdbL4Xn+oGJz3AlWx+Di+y+WiU9/8Ar41U78piN3GnlOqZOsHN6OyxUnNNlxzrAp7W9TktxytcLB0OmpGB4Sz2HJeqDGRf1KguA0lmVGhzvGijyjK3YmXFht+PZU6UNouxaL6eTxvdgHfiY6R0aRY/HC6W3rqjNuBtj+AEOFuyzh34iuPdQLuFdzoIHIy9OK91LfBW4LQx3I6jz6l+oJ3grcCn47CXmvWftR5vSuDkVgPROkwF9JEBayg+t2SJc0t/AC6MQ4qkrL/HAAAAAElFTkSuQmCC');
+}
+  
+.ks1ke3-mute-icon {
+    height: 20px;
+    width: 20px;
+    background-image: url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAB4AAAAeCAYAAAA7MK6iAAAACXBIWXMAAAsTAAALEwEAmpwYAAABG0lEQVR4nN3WsU6DQBzH8a/KwiO0C2oKg60uMPgO9QW6deqmD6HdO/c1OnXtG7i4aoy6Gl2bGJpL/iSEIlyE/5H6Sy5cGP4fuBx/Dg4sHhDJ1VkGwBOQAhvg2BX6Jmg2Qm00BN4LqBlxF2iqCYcVqBoc1qAqcGSBNoJ9YALMZFwBfeDDAm0ErwuFboC5JdoI/ikptPwDPATuSuonspJ7SVuCL4EvYJGrfS335powMv8UPMnN0Yazt/wGtlXov4Hj3PLm50ea8EXF5rrX/JxMp7stqW822dSmgYyBBxcNxC+0zBHQK/nhtw7/llPgpQvYJLDA1Q4CQQ2uevQJgOcu4CpcHTY5B14LsHkgJzkDHgVd4TieHO5PXMONswM/MBcBugKnUwAAAABJRU5ErkJggg==');
+}
+
+.ks1ke3-menu-height {
+    height: 18px;
+}
+
+.ks1ke3-playing {
+    background-color: #FF8888;
+}
